@@ -1,0 +1,59 @@
+city	sfh sales	median price	price change	condo sales	condo median	condo change	sfr median price per sft
+Adelanto	36	156	27	0	n/a	n/a	92
+Angeles Oks	1	n/a	n/a	0	n/a	n/a	n/a
+Apple Valley	122	168	8	1	71	n/a	107
+Barstow	22	85	28	0	n/a	n/a	74
+Big Bear Cty	46	193	17	0	n/a	n/a	154
+Big Bear Lke	44	340	9	5	208	14	207
+Bloomington	17	229	34	0	n/a	n/a	191
+Blue Jay	1	135	22	0	n/a	n/a	203
+Cedar Glen	3	55	-42	0	n/a	n/a	78
+Cedarpns Pk	3	78	-37	0	n/a	n/a	153
+Chino	43	383	4	9	155	-20	236
+Chino Hills	66	551	6	6	415	43	293
+Colton	35	193	28	1	95	20	166
+Crest Park	0	n/a	n/a	0	n/a	n/a	n/a
+Crestline	29	138	20	0	n/a	n/a	121
+Daggett	0	n/a	n/a	0	n/a	n/a	n/a
+Fawnskin	2	170	-9	0	n/a	n/a	215
+Fontana	186	307	14	5	162	-12	185
+Forest Falls	0	n/a	n/a	0	n/a	n/a	n/a
+Grand Terrce	8	271	-4	1	199	n/a	183
+Green Vly Lk	3	147	17	0	n/a	n/a	157
+Helendale	17	150	1	3	105	40	87
+Hesperia	107	200	21	0	n/a	n/a	105
+Highlands	49	265	15	3	47	5	160
+Hinkley	1	40	-58	0	n/a	n/a	42
+Joshua Tree	16	111	23	0	n/a	n/a	96
+Lke Arrowhd	42	300	8	3	520	207	188
+Landers	4	58	18	0	n/a	n/a	70
+Loma Linda	22	327	-6	0	n/a	n/a	170
+Lucerne Vly	13	80	-57	0	n/a	n/a	68
+Lytle Creek	0	n/a	n/a	0	n/a	n/a	n/a
+Mentone	6	245	5	2	68	n/a	147
+Montclair	25	340	3	5	208	4	233
+Morongo Vly	7	150	129	0	n/a	n/a	108
+Needles	2	60	71	0	n/a	n/a	41
+Newbry Spr	0	n/a	n/a	0	n/a	n/a	n/a
+Ontario	78	339	20	14	222	5	226
+Oro Grande	0	n/a	n/a	0	n/a	n/a	n/a
+Phelan	16	195	1	0	n/a	n/a	114
+Pinon Hills	9	175	12	0	n/a	n/a	110
+Pioneertown	0	n/a	n/a	0	n/a	n/a	n/a
+R Cucamnga	133	476	5	25	243	4	243
+Redlands	67	303	9	2	213	48	207
+Rialto	81	265	10	1	115	-43	166
+Rim Forest	3	107	-5	0	n/a	n/a	128
+Running Spr	18	147	2	0	n/a	n/a	131
+San Brndno	214	190	38	11	76	-10	142
+Sky Forest	0	n/a	n/a	0	n/a	n/a	n/a
+Sugarloaf	16	140	0	0	n/a	n/a	146
+Trona	1	122	203	0	n/a	n/a	45
+29 Palms	23	105	33	0	n/a	n/a	75
+Twin Peaks	12	125	-6	0	n/a	n/a	102
+Upland	56	479	14	11	419	58	249
+Victorville	178	174	15	5	75	0	99
+Wrightwood	10	223	4	0	n/a	n/a	145
+Yermo	2	25	-32	0	n/a	n/a	14
+Yucaipa	56	260	1	1	287	13	165
+Yucca Valley	44	129	3	0	n/a	n/a	91

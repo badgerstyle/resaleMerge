@@ -1,0 +1,47 @@
+city	sfh sales	median price	price change	condo sales	condo median	condo change	sfr median price per sft
+Aliso Viejo	25	800	12	61	450	10	374
+Anaheim	119	459	12	27	355	20	317
+Anaheim Hls	63	685	7	17	363	8	308
+Balboa Islnd	1	2330	-72	0	n/a	n/a	1095
+Brea	36	582	-9	6	310	-3	335
+Buena Park	39	432	7	5	515	48	325
+Capistrno B	4	715	-39	2	888	88	449
+Corona d Mr	22	2000	-8	10	1460	48	1227
+Costa Mesa	64	671	1	11	458	23	531
+Cypress	30	530	7	5	415	23	337
+Dana Point	28	961	9	14	475	-7	590
+Foothill Rch	8	653	-7	1	260	-1	n/a
+Fountain Vly	46	660	4	0	n/a	n/a	349
+Fullerton	94	593	5	28	286	9	347
+Garden Grv	83	461	11	18	308	15	339
+Huntingtn B	145	803	12	50	382	-2	415
+Irvine	109	940	3	134	563	1	443
+La Habra	55	494	6	15	250	45	325
+La Palma	9	675	12	0	n/a	n/a	318
+Ladera Rnch	28	880	9	21	435	-2	n/a
+Laguna Bch	33	2048	3	2	723	34	1221
+Laguna Hills	20	990	47	18	377	15	345
+Laguna Nigl	62	789	0	32	409	15	406
+Laguna Wds	0	n/a	n/a	40	298	24	n/a
+Lake Forest	35	627	0	25	340	9	348
+Los Alamitos	13	885	11	4	442	32	521
+Midway City	1	470	6	1	280	-13	375
+Mission Vjo	92	618	2	39	390	16	333
+Newport Bh	59	1923	24	22	675	-1	1136
+Newport Cst	14	2450	2	7	1202	13	855
+Orange	81	570	9	36	350	7	369
+Placentia	41	568	2	7	269	-38	301
+Rancho S M	28	638	8	35	341	-6	335
+San Clemnte	67	815	-4	16	510	32	387
+San Juan C	35	625	-15	8	394	66	349
+Santa Ana	100	515	9	25	282	24	327
+Seal Beach	9	900	13	3	321	4	591
+Silverado	3	1080	n/a	0	n/a	n/a	349
+Stanton	6	340	6	2	292	-1	289
+Sunset Bch	0	n/a	n/a	0	n/a	n/a	n/a
+Surfside	0	n/a	n/a	0	n/a	n/a	n/a
+Trabuco Cyn	45	824	-6	6	377	6	332
+Tustin	51	798	7	36	376	0	350
+Villa Park	8	1008	-22	0	n/a	n/a	369
+Westminster	49	503	0	2	606	n/a	367
+Yorba Linda	62	678	-7	10	365	0	338

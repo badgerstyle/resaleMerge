@@ -1,0 +1,43 @@
+city	sfh sales	median price	price change	condo sales	condo median	condo change	sfr median price per sft
+Aguanga	3	321	32	0	n/a	n/a	133
+Anza	2	390	250	0	n/a	n/a	161
+Banning	49	189	6	6	175	12	145
+Beaumont	68	270	25	3	185	13	120
+Blythe	7	183	28	0	n/a	n/a	95
+Cabazon	0	n/a	n/a	0	n/a	n/a	n/a
+Calimesa	6	320	38	1	80	n/a	180
+Canyon Lake	29	379	15	1	220	4	170
+Cathedrl Cty	50	235	4	12	117	16	142
+Coachella	19	155	-5	0	n/a	n/a	103
+Corona	198	416	2	28	288	2	198
+Desert Ctr	0	n/a	n/a	0	n/a	n/a	n/a
+Dsrt Hot Spr	46	149	6	5	65	-45	221
+Hemet	167	167	9	4	85	-2	112
+Homeland	2	150	50	0	n/a	n/a	103
+Idyllwild	16	161	-27	0	n/a	n/a	165
+Indian Wells	11	575	-36	11	365	7	224
+Indio	87	220	5	5	139	29	126
+La Quinta	90	375	2	17	420	34	191
+Lake Elsinre	82	282	7	7	178	31	134
+Mecca	1	119	98	0	n/a	n/a	85
+Menifee	72	298	12	0	n/a	n/a	144
+Mira Loma	21	398	6	3	359	16	181
+Moreno Vly	167	248	17	7	152	10	144
+Mountn Ctr	2	348	43	0	n/a	n/a	204
+Murrieta	179	353	8	9	212	25	150
+Norco	14	385	5	0	n/a	n/a	235
+N Palm Spr	0	n/a	n/a	0	n/a	n/a	n/a
+Nuevo	8	275	33	0	n/a	n/a	130
+Palm Desert	81	359	20	50	250	5	178
+Palm Sprngs	67	530	25	65	191	12	258
+Perris	74	251	35	2	131	n/a	132
+Rancho Mrg	36	642	1	21	275	-3	227
+Riverside	326	301	12	27	181	2	183
+San Jacinto	71	200	17	3	89	11	107
+Sun City	78	234	14	4	125	0	141
+Temecula	165	618	57	11	263	17	226
+Thermal	3	145	-17	0	n/a	n/a	73
+Thousand P	3	170	0	0	n/a	n/a	142
+White Water	1	200	86	0	n/a	n/a	82
+Wildomar	43	318	5	0	n/a	n/a	138
+Winchester	30	322	7	2	200	-7	143
