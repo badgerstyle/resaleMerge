@@ -1,0 +1,17 @@
+{
+  "name": "resaleMerge",
+  "version": "1.0.0",
+  "description": "merge",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "private"
+  ],
+  "author": "Bryan Green",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}

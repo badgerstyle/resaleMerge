@@ -1,0 +1,153 @@
+city	sfh sales	median price	price change	condo sales	condo median	condo change	sfr median price per sft
+Acton	7	467	-8	1	272	47	194
+Agoura Hills	11	1030	15	14	571	7	340
+Alhambra	11	495	-3	6	449	27	416
+Altadena	40	620	-1	3	1100	n/a	430
+Arcadia	24	1163	-4	9	694	15	606
+Artesia	5	440	4	n/a	n/a	n/a	347
+Avalon	2	539	-8	n/a	n/a	n/a	653
+Azusa	30	350	7	10	273	12	272
+Baldwin Pk	28	329	12	5	250	6	270
+Bell/Cudahy	10	306	2	4	193	n/a	218
+Bellflower	23	414	16	10	247	-4	271
+Beverly Hills	10	1963	-23	4	817	-8	745
+Burbank	14	641	3	4	442	3	512
+Calabasas	21	1238	9	25	1238	1	421
+Canoga Park	15	461	6	6	222	22	268
+Canyon Ctry	19	418	5	22	313	1	245
+Carson	13	440	22	8	286	32	263
+Castaic	24	450	4	6	380	4	217
+Cerritos	44	599	-4	10	335	15	359
+Chatsworth	31	550	17	21	339	5	277
+Claremont	29	575	0	8	401	9	314
+Compton	24	256	17	1	223	39	218
+Covina	15	440	7	3	307	5	295
+Culver City	6	897	10	11	582	-1	678
+Diamond Br	35	716	2	13	325	1	337
+Downey	20	472	9	3	310	3	304
+Duarte	21	410	-1	3	360	48	326
+El Monte	11	369	7	6	329	-21	337
+El Monte - S	9	450	29	1	350	-13	304
+El Segundo	8	958	14	2	517	-16	566
+Encino	20	1109	22	10	360	-15	404
+Gardena	9	389	7	6	240	-15	328
+Glendale	7	668	7	5	362	8	409
+Glendora	22	514	10	3	339	-10	341
+Granada Hls	41	505	11	3	357	1	304
+Hacienda Ht	35	620	37	4	390	2	310
+Harbor City	8	425	-10	1	590	118	317
+Hawaiian Gn	4	310	1	3	185	54	283
+Hawthorne	24	537	20	9	520	-9	437
+Hermosa Bh	11	1560	14	11	1350	25	908
+Huntngtn Pk	6	313	8	3	230	39	254
+Inglewood	4	334	13	3	267	20	292
+LA	11	618	22	5	502	26	400
+La Canada F	28	1298	8	1	475	n/a	576
+La Crescnta	45	680	5	6	509	141	455
+La Mirada	29	462	8	12	381	-8	303
+La Puente	25	366	15	3	300	11	271
+La Verne	15	595	29	6	301	-30	342
+LA/AugFHw	21	236	8	1	238	n/a	230
+LA/Bldwn H	12	555	9	2	334	22	324
+LA/Bel-Air	11	1906	0	n/a	n/a	n/a	757
+LA/Boyle Ht	7	210	10	n/a	n/a	n/a	210
+LA/Brentwd	19	1875	-23	26	731	-14	743
+LA/Centry C	n/a	n/a	n/a	9	1033	11	n/a
+LA/CyofCom	3	235	-16	n/a	n/a	n/a	157
+LA/Dockwlr	5	331	32	1	251	n/a	244
+LA/Eagle Rk	13	603	8	n/a	n/a	n/a	492
+LA/East LA	6	358	5	n/a	n/a	n/a	260
+LA/Echo Pk	14	620	-5	3	592	15	578
+LA/ElSereno	15	373	11	1	275	0	338
+LA/Firstn Pk	13	232	-1	n/a	n/a	n/a	213
+LA/Glassell	25	599	10	2	192	n/a	499
+LA/Highld P	25	493	2	7	343	8	480
+LA/Hollywd	10	926	6	6	562	18	506
+LA/Ladera H	5	945	20	n/a	n/a	n/a	361
+LA/Lincln H	13	505	33	1	360	37	386
+LA/Mar Vsta	25	950	6	6	554	13	672
+LA/Rncho P	24	1081	-10	7	732	11	712
+LA/Sanford	5	1300	52	11	580	26	602
+LA/VPk/WH	33	365	12	n/a	n/a	n/a	273
+LA/Watts	20	241	14	n/a	n/a	n/a	207
+LA/West LA	7	1200	35	30	631	-4	723
+LA/Westchtr	37	793	-1	3	386	0	557
+LA/Westwd	13	2058	25	20	656	8	891
+Lake Hughes	5	157	-34	n/a	n/a	n/a	125
+Lakewood	24	452	14	3	324	8	346
+Lancaster	71	182	8	4	92	-6	111
+Lawndale	4	383	3	1	330	16	426
+Littlerock	14	160	3	n/a	n/a	n/a	138
+Llano	2	320	92	n/a	n/a	n/a	134
+Lomita	9	560	-4	5	370	20	319
+Long Beach	19	518	12	12	278	14	369
+Los Angeles	1	172	14	4	757	-20	203
+Lynwood	17	300	17	n/a	n/a	n/a	245
+Malibu	14	1885	-14	7	840	25	765
+Manhattan B	34	1663	-12	12	1653	15	893
+Marina del R	1	2350	88	23	794	19	604
+Maywood	3	286	12	n/a	n/a	n/a	284
+Mission Hills	11	399	27	n/a	n/a	n/a	272
+Monrovia	26	652	8	4	442	-3	405
+Montebello	14	421	18	7	228	-17	278
+Monterey Pk	13	518	5	7	431	10	378
+Montrose	2	326	-40	2	501	17	447
+Newhall	21	445	9	20	270	23	273
+North Hills	25	498	11	14	253	11	284
+N Hollywd	13	607	10	5	367	13	379
+Northridge	19	550	-2	9	426	9	298
+Norwalk	61	370	10	10	246	7	293
+P Palisades	28	2253	-6	13	833	6	948
+Pacoima	30	335	8	6	246	46	290
+Palmdale	46	194	15	5	152	60	113
+Palos V Pen	30	1600	-5	9	910	27	644
+Panorama C	11	364	15	15	245	63	293
+Paramount	11	325	12	4	216	32	259
+Pasadena	20	1139	28	11	492	1	534
+Pearblossom	1	60	n/a	n/a	n/a	n/a	70
+Pico Rivera	27	355	9	n/a	n/a	n/a	342
+Playa dl Rey	2	1287	36	11	506	25	797
+Playa Vista	n/a	n/a	n/a	16	797	15	n/a
+Pomona	23	305	5	8	348	36	233
+Rancho PV	40	1105	-3	6	730	27	503
+Redondo Bh	19	950	10	27	695	-6	586
+Reseda	35	421	1	10	263	-4	314
+Rosemead	12	445	8	3	420	23	343
+Rowland Hts	22	513	-9	2	270	-8	337
+San Dimas	23	553	26	9	350	16	317
+Sn Fernando	11	340	9	2	200	-18	337
+San Gabriel	16	663	4	3	381	-4	481
+San Marino	20	1854	22	n/a	n/a	n/a	822
+San Pedro	12	641	27	10	352	2	391
+Snta Clarita	30	499	16	11	313	4	258
+Santa Fe Spr	9	360	-1	2	422	33	336
+Snta Monica	6	2259	-8	9	884	12	1152
+Shermn Oks	19	930	2	12	406	9	540
+Sierra Mdre	19	867	23	2	421	-15	518
+Signal Hill	n/a	n/a	n/a	16	367	-16	n/a
+South Gate	19	320	5	2	223	-14	271
+S Pasadena	9	1100	38	2	508	18	675
+Stevenson R	19	779	4	13	427	22	243
+Studio City	21	1222	4	15	500	-2	659
+Sun Valley	19	403	10	1	273	32	289
+Sunland	22	452	2	3	325	21	333
+Sylmar	33	400	14	20	293	6	269
+Tarzana	17	1215	36	27	315	17	416
+Temple City	27	688	6	5	512	-9	447
+Topanga	8	1450	67	n/a	n/a	n/a	607
+Torrance	17	613	10	6	446	16	454
+Tujunga	14	506	11	4	291	-6	331
+Valencia	14	547	15	30	393	11	250
+Valley Vlge	15	818	17	6	376	6	423
+Van Nuys	16	548	10	4	339	36	354
+V Nuys/LB	17	480	14	12	273	11	342
+V Nuys/SO	11	586	11	5	320	1	399
+Venice	16	1593	32	2	1328	0	1171
+Walnut	51	680	8	4	308	-17	375
+West Covina	23	464	17	5	373	7	289
+West Hills	33	516	-7	3	610	106	311
+W Hlywd/LA	13	1245	-3	13	589	3	780
+Whittier	18	414	5	5	278	4	308
+Wilmington	10	332	19	n/a	n/a	n/a	298
+Winnetka	25	423	1	5	250	11	301
+Woodlnd Hls	35	659	-1	10	383	27	335
